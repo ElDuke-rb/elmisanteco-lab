@@ -1,0 +1,2 @@
+onnxruntime==1.22.0
+rembg==2.0.66

@@ -1,0 +1,93 @@
+# === Python ===
+# Entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+.python-version
+.python-env/
+pythonenv*
+.Python
+*.py[cod]
+*$py.class
+__pycache__/
+
+# Distribución y compilación
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Testing y cobertura
+.coverage
+.tox/
+.pytest_cache/
+htmlcov/
+.coverage.*
+coverage.xml
+*.cover
+
+# === Ruby / Rails ===
+*.gem
+*.rbc
+.bundle
+.config
+.yardoc
+_yardoc/
+.yard/
+vendor/bundle
+log/
+tmp/
+db/*.sqlite3
+db/*.sqlite3-journal
+public/system
+coverage/
+spec/tmp
+rerun.txt
+pickle-email-*.html
+
+# Rails assets
+public/assets/
+public/packs/
+node_modules/
+yarn-error.log
+.byebug_history
+
+# === Editores ===
+.vscode/
+*.code-workspace
+
+*.sublime-workspace
+*.sublime-project
+
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# Vim
+*.swp
+*.swo
+.vim/
+
+# === SO y archivos temporales ===
+.directory
+.Trash-*
+.nfs*
+.fuse_hidden*
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*~
+
